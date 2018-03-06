@@ -27,3 +27,6 @@ examples/run_bootstrap
 tools/openkey-producer
 tools/openkey-manager
 tools/openkey-authenticator
+*anjuta*
+.anjuta/
+*~

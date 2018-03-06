@@ -12,6 +12,9 @@ AM_INIT_AUTOMAKE([1.11])
 dnl Silent build output
 AM_SILENT_RULES([yes])
 
+dnl Maintainer Mdoe
+AM_MAINTAINER_MODE([enable])
+
 dnl this allows us specify individual liking flags for each target
 AM_PROG_CC_C_O 
 AC_PROG_CC_C99
